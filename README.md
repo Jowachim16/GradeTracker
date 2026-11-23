@@ -143,7 +143,7 @@ To return to the repository's main folder after running the program, enter `cd .
 
 ## Sample Screenshots
 
-**  Main Menu**
+**Main Menu**
 
 ![image alt](https://github.com/Jowachim16/GradeTracker/blob/0c3fec9eb51157a879e79692f70840a79a2bd32c/screenshots/MainMenu.png)
 
