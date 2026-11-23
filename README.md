@@ -157,7 +157,9 @@ To return to the repository's main folder after running the program, enter `cd .
 
 
 
-- The ideal-score calculator showing a target grade point.
+**Enter/Update Grade**
+
+
 
 
 
