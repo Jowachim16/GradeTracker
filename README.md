@@ -159,9 +159,11 @@ To return to the repository's main folder after running the program, enter `cd .
 
 **Enter/Update Grade**
 
+![image alt](https://github.com/Jowachim16/GradeTracker/blob/02710105741505876024caaecf9c74687c749744/screenshots/Enter_Update_Grade.png)
 
+2nd Photo:
 
-
+![image alt](
 
 ## Known Limitations
 
