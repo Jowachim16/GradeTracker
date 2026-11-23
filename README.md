@@ -143,14 +143,15 @@ To return to the repository's main folder after running the program, enter `cd .
 
 ## Sample Screenshots
 
-Add screenshots of the **running GTrack application** to the `screenshots/` folder. Recommended screenshots include:
+**  Main Menu**
 
-- The main menu.
+![image alt](https://github.com/Jowachim16/GradeTracker/blob/0c3fec9eb51157a879e79692f70840a79a2bd32c/screenshots/MainMenu.png)
+
 - The grade report after entering sample scores.
 - The transmutation-table settings.
 - The ideal-score calculator showing a target grade point.
 
-The `screenshots/README.md` file in that folder is a reminder; replace or supplement it with your actual screenshots. The assignment instruction screenshots are not application screenshots and should not be submitted as program output.
+
 
 ## Known Limitations
 
