@@ -151,7 +151,12 @@ To return to the repository's main folder after running the program, enter `cd .
 
 ![image alt](https://github.com/Jowachim16/GradeTracker/blob/24dad116656873ad01a5701f4969b3fa65ae9104/screenshots/View_Report.png)
 
-- The transmutation-table settings.
+**Transmutation Table**
+
+![image alt](https://github.com/Jowachim16/GradeTracker/blob/5254dc4e0d6d15eedd678d65726caf92fb91eed3/screenshots/Transmutation_Table.png)
+
+
+
 - The ideal-score calculator showing a target grade point.
 
 
