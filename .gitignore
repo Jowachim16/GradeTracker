@@ -1,8 +1,0 @@
-# Compiled Java bytecode
-*.class
-
-# Common IDE/build output
-/out/
-/bin/
-.idea/
-.vscode/
