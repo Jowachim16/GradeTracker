@@ -77,10 +77,10 @@ Replace the placeholders below with your actual team details before submitting t
 
 | Team member | Role / responsibility |
 |---|---|
-| `[Member 1]` | `[e.g., project lead / integration]` |
-| `[Member 2]` | `[e.g., grade calculations / testing]` |
-| `[Member 3]` | `[e.g., documentation / UML diagram]` |
-| `[Member 4]` | `[e.g., interface / presentation]` |
+|  Aquino, Shan Leigh L. | Project Documentation | |
+| Cantos, Earth Joyce P | Project Designer |
+| Hidalgo, Pershey Ranzel Jamina M. | Project Leader |
+| Mortel, John Joakim A. | lead Developer |
 
 Remove unused rows or add more rows to match your team.
 
@@ -163,7 +163,9 @@ To return to the repository's main folder after running the program, enter `cd .
 
 2nd Photo:
 
-![image alt](
+![image alt](https://github.com/Jowachim16/GradeTracker/blob/0a6b7e79c343240a5d6e466e4c26e1706bdf7158/screenshots/Enter_Grade2.png)
+
+Note: These are example screenshots of what you see on the program.
 
 ## Known Limitations
 
@@ -183,12 +185,10 @@ To return to the repository's main folder after running the program, enter `cd .
 
 ## Project Contributors
 
-Add the full names of everyone who contributed to the project. Keep this list consistent with the **Team Members and Roles** section above.
-
-- `[Contributor 1]`
-- `[Contributor 2]`
-- `[Contributor 3]`
-- `[Contributor 4]`
+- Aquino, Shan Leigh L.
+- Cantos, Earth Joyce P.
+- Hidalgo, Pershey Ranzel Jamina M.
+- Mortel, John Joakim A.
 
 ---
 
